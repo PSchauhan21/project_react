@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "homepage": "https://PSchauhan21.github.io/learning_react",
+    "homepage": "https://PSchauhan21.github.io/project_react/",
     "dev": "vite",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
